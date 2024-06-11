@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: "Pacifico";
+    src: url('/public/assets/fonts/Pacifico/Pacifico-Regular.ttf');
+}
+
+@font-face {
+    font-family: "Playfair_Display";
+    src: url('/public/assets/fonts/Playfair_Display/static/PlayfairDisplay-Regular.ttf');
+}
+
+.font_pacitio{
+    font-family: "Pacifico";
+}
+
+.font_playfair_display{
+    font-family: "Playfair_Display";
+}
